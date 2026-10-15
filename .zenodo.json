@@ -1,0 +1,24 @@
+{
+  "title": "Controlli: quality-control reports and non-conformities of a production laboratory (db, 1997–1999)",
+  "upload_type": "software",
+  "publication_date": "1999-04-15",
+  "description": "<p><em>Rapporti di controllo e non conformità del laboratorio di produzione</em></p><p>Controlli records the quality-control reports of the production laboratory. Each report refers to a product, code, production order, thickness, dimensions, quantity and customer, with the customer and product specifications, and records the outcome of up to twenty checks and the related non-conformities. The application counts reports with and without non-conformities, and lists them by customer, product, code and order over a chosen period.</p><p>Designed and programmed by Massimo Sbarbaro in 1997–1999 (db). Published in 2026; all original data and the names of client organisations have been removed.</p>",
+  "creators": [
+    {
+      "name": "Sbarbaro, Massimo",
+      "orcid": "0009-0006-8965-9013"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Microsoft Access",
+    "quality control",
+    "non-conformity",
+    "laboratory",
+    "manufacturing",
+    "legacy software"
+  ],
+  "version": "1.0",
+  "language": "eng",
+  "notes": "Original development: 1997–1999."
+}
