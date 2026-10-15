@@ -1,5 +1,7 @@
 # Controlli: quality-control reports and non-conformities of a production laboratory
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23398794.svg)](https://doi.org/10.5281/zenodo.23398794)
+
 *Rapporti di controllo e non conformità del laboratorio di produzione*
 
 **db** · 1997–1999 · version 1.0  
@@ -46,9 +48,9 @@ The database is published **empty**: every table has been emptied, the file comp
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*).
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23398794](https://doi.org/10.5281/zenodo.23398794).
 
-> Sbarbaro, Massimo. 1999. *Controlli: quality-control reports and non-conformities of a production laboratory*. Software (db, 1997–1999), version 1.0. GitHub. https://github.com/massimosbarbaro/laboratory-quality-control-reports-db.
+> Sbarbaro, Massimo. 1999. *Controlli: quality-control reports and non-conformities of a production laboratory*. Software (db, 1997–1999), version 1.0. Zenodo. https://doi.org/10.5281/zenodo.23398794.
 
 ## License
 
